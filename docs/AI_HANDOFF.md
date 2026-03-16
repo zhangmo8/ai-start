@@ -13,7 +13,7 @@
 
 1. `docs/PROGRESS.md`
 2. `docs/SESSION_LOG.md`
-3. 对应的学习结果文件，例如 `docs/result/day01.md`
+3. 对应的学习结果文件，例如 `docs/result/day001.md`
 4. 当前学习日文件，例如 `docs/days/day001.md`
 5. 如有需要，再看对应 `docs/weeks/weekXX.md` 和 `docs/phases/phaseX.md`
 
@@ -21,8 +21,10 @@
 
 - 先确认用户上次实际完成到了哪一天。
 - 以 `PROGRESS.md` 的“最后完成的学习日”为主，不以自然日期为主。
+- 周六周日固定休息，Day 文件的“计划日期”按工作日顺延，不按自然日连续递增。
 - 先遵守上面的目录边界，再开始判断进度和继续教学。
 - `docs/archive` 已改名为 `docs/result`，不要再从 `archive` 判断进度。
+- 结果文件优先看三位数命名，例如 `docs/result/day001.md`、`docs/result/day002.md`；不要再把旧的 `day01.md` 当成主记录。
 - 判断某一天是否真的完成时，先看 `docs/result/dayXX.md` 的实际内容，再对照对应的 `docs/days/dayXXX.md` 完成标准。
 - 如果用户没完成当天内容，继续帮助他完成当前 day 文件，不要自动跳到下一天。
 - 每次学习结束后，建议用户把今天的收获、卡点、下一步写进 `SESSION_LOG.md`。
