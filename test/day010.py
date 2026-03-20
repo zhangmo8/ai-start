@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 """
-Day 009 - 异常处理 (Exceptions)
+Day 010 - 异常处理 (Exceptions)
 
 这个文件按"先核心、后扩展"的顺序放了 7 个例子：
 1. 基本 try-except
