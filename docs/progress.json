@@ -1,15 +1,15 @@
 {
   "plan_name": "model-engineer-roadmap",
   "start_date": "2026-03-13",
-  "today_date_when_generated": "2026-03-19",
-  "current_day": 10,
+  "today_date_when_generated": "2026-03-23",
+  "current_day": 12,
   "current_week": 2,
   "current_phase": 1,
-  "current_day_file": "docs/days/day010.md",
-  "completed_days": 9,
-  "last_completed_day": 9,
-  "status": "ready_for_day010",
-  "next_action": "Open docs/days/day010.md. Day 009 was completed on 2026-03-19 after drafting docs/result/day009.md, which explains typing and function signatures as tools for expressing clear function interfaces, connects dict/tuple/Union/Optional/Any/object/Callable/TypedDict back to interface boundaries, and ends with three true-or-false checks. The next step is to focus on exception handling and debugging: explain what exceptions solve, clarify try/except/else/finally and raise, compare their boundary with typing and function signatures, and use test/day009_errors.py as the concrete example set.",
+  "current_day_file": "docs/days/day012.md",
+  "completed_days": 11,
+  "last_completed_day": 11,
+  "status": "ready_for_day012",
+  "next_action": "Open docs/days/day012.md. Day 011 was completed on 2026-03-23 after finishing docs/result/day011.md, which reorganizes Week 02 into the interface-expression layer, runtime-failure-handling layer, and engineering-skeleton layer, explains argparse/pathlib/json/logging as program entry, resource location, configuration exchange, and observability, and identifies portability, reproducibility, automation, and debuggability as the key system-level decisions they affect. The next step is to read 1-2 core official references closely, build a \"where to look later\" map for typing/pathlib/logging, and write down what problem each document is solving, how it solves it, and what remains unclear.",
   "total_days": 252,
   "total_weeks": 36
 }
