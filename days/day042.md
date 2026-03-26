@@ -9,7 +9,7 @@
 
 - 今天不追求吸收新知识，专门做复盘。
 - 检查这周是否真的掌握，而不是只看过资料。
-- 更新 `docs/PROGRESS.md` 和 `docs/SESSION_LOG.md`。
+- 更新 `PROGRESS.md` 和 `SESSION_LOG.md`。
 
 ## 今日内容摘要
 
